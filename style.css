@@ -1,0 +1,55 @@
+﻿@charset "UTF-8";
+
+/* 基本色 */
+:root {
+    --main-color: #5D9AB2;
+    --accent-color: #BF6A7A;
+    --dark-color: #2B5566;
+    --text-bright-color: #fff;
+}
+
+/* 基本設定: ページ全体 */
+body {
+    margin: 0;
+    font-family: 'メイリオ',
+        'Hiragino Kaku Gothic Pro'
+        sans-serif;
+}
+
+/* コンテンツA: ヒーローイメージ */
+.conA {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: ;
+    min-height: 450px;
+    background-image: url(aday.jpeg);
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+}
+
+.structured {
+    font-size: 30px
+}
+
+@media (min-width: 768px) {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
