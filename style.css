@@ -26,6 +26,7 @@ body {
     background-image: url(aday.jpeg);
     background-position: center;
     background-size: cover;
+    font-size: 20px;
     text-align: left;
 }
 
